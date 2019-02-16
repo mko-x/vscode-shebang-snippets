@@ -38,4 +38,8 @@ To insert the magic comment for encoding (`# -*- coding: utf-8 -*-`) you can als
 If you have already saved your script with appropriate file extension and need the shebang, you can alternatively just start typing `shebang` to complete the line for your script type.
 
 # Credits
+## Rewrite of
 Base upon the work of [Rpinski/vscode-shebang-snippets](https://github.com/Rpinski/vscode-shebang-snippets)
+
+## Tributes to
+Icon: Sven [Public domain](https://commons.wikimedia.org/wiki/File:Shebang.svg) via Wikimedia Commons
