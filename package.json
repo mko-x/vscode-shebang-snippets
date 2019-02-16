@@ -2,12 +2,12 @@
     "name": "shebang-snippets",
     "displayName": "Shebang Snippets",
     "description": "Snippets for shebang lines for different types of scripts.",
-    "version": "0.1.3",
-    "publisher": "rpinski",
-    "author": "Andreas Weizel",
+    "version": "1.0.0",
+    "publisher": "mko-x",
+    "author": "Markus Kosmal",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Rpinski/vscode-shebang-snippets"
+        "url": "https://github.com/mko-x/vscode-shebang-snippets"
     },
     "icon": "images/shebang-logo.png",
     "galleryBanner": {
@@ -19,7 +19,7 @@
     ],
     "keywords": [
         "Snippet", "Script", "Shebang", "Comment",
-        "Shell", "Bash", "Lua", "Ruby", "Python", "F#", "FSharp", "Perl", "JS", "JavaScript"
+        "Shell", "Bash", "Lua", "Ruby", "Python", "F#", "FSharp", "Perl", "JS", "JavaScript", "zsh"
     ],
     "engines": {
         "vscode": "^1.16.0"
@@ -69,6 +69,10 @@
             {
                 "language": "groovy",
                 "path": "./snippets/shebang-groovy.json"
+            },
+            {
+                "language": "zsh",
+                "path": "./snippets/shebang-zsh.json"
             }
         ]
     }
