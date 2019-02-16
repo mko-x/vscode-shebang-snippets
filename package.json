@@ -9,7 +9,7 @@
         "type": "git",
         "url": "https://github.com/mko-x/vscode-shebang-snippets"
     },
-    "icon": "images/shebang-logo.png",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/41/Shebang.svg",
     "galleryBanner": {
         "color": "#1e1e1e",
         "theme": "dark"
